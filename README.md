@@ -1,7 +1,7 @@
 Hello, beloved peace bearer 👋
 i am Musa, 🌐 Digital Creator | ✍️ Technical Writer | 💻 Software Developer Apprentice
 
-![Coding GIF](https://tenor.com/view/coding-gif-26391713.gif)
+![Coding GIF](https://media1.tenor.com/m/DUlvPVrPZrwAAAAd/hacker-pc.gif)
 
 
 🚀 About Me
