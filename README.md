@@ -1,6 +1,9 @@
 Hello, beloved peace bearer 👋
 i am Musa, 🌐 Digital Creator | ✍️ Technical Writer | 💻 Software Developer Apprentice
 
+![Coding GIF](https://tenor.com/view/coding-gif-26391713.gif)
+
+
 🚀 About Me
 🔭 Currently learning Go, JavaScript, and Python
 
